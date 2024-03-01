@@ -1,5 +1,5 @@
 let intentos = 6;
-let opciones = ["ANGEL", "PERRO", "TRAPO", "CINCO", "SIETE"];
+let opciones = ["ANGEL", "PERRO", "TRAPO", "CINCO", ""];
 let winnerWord = opciones[Math.floor(Math.random() * opciones.length)];
 const GRID = document.getElementById("grid");
 
