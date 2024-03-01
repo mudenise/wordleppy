@@ -38,10 +38,12 @@ body {
       min-width: 20px;
       text-align: center;
       display: inline-block;
+      background-color: green;
   }
      
   .row{
       margin-bottom: 10px;
+      
   }
      
   .input-area{
